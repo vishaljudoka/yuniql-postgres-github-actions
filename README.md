@@ -1,3 +1,6 @@
+
+![CI](https://github.com/vishaljudoka/yuniql-postgres-github-actions/actions/workflows/your-workflow.yml/badge.svg)
+
 # Yuniql PostgreSQL + GitHub Actions Sample
 
 [![Database Migration](https://img.shields.io/badge/Database-Migration-blue)](https://yuniql.io/)
