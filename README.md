@@ -1,5 +1,5 @@
 
-![CI](https://github.com/vishaljudoka/yuniql-postgres-github-actions/actions/workflows/your-workflow.yml/badge.svg)
+![CI](https://github.com/vishaljudoka/yuniql-postgres-github-actions/actions/workflows/migrate.yml/badge.svg)
 
 # Yuniql PostgreSQL + GitHub Actions Sample
 
