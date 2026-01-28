@@ -1,0 +1,2 @@
+# This folder runs ONCE before the first versioned migration.
+# Use for one-time setup that should never run again.

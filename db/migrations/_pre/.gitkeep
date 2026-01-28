@@ -1,0 +1,2 @@
+# This folder runs BEFORE each version folder.
+# Use for preparation scripts (e.g., disable triggers).
