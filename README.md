@@ -25,6 +25,11 @@ A production-ready example of automated database migrations using **Yuniql** wit
 
 ## Architecture Overview
 
+<p align="center">
+  <img src="assets/architecture-overview.png" alt="Architecture Overview diagram for Yuniql PostgreSQL GitHub Actions pipeline" width="100%" />
+</p>
+
+<!--
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                              DEVELOPER WORKFLOW                              │
@@ -137,6 +142,7 @@ A production-ready example of automated database migrations using **Yuniql** wit
     │  └────────────────────────────────────────────────────────┘ │
     └─────────────────────────────────────────────────────────────┘
 ```
+-->
 
 ---
 
